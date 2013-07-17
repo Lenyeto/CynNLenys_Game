@@ -1,0 +1,22 @@
+bows
+swords
+axes
+pistols
+electromancy gauntlets
+hammers
+knuckles
+daggers
+
+
+
+able to dual wield 1 handed weapons like pistols daggers knuckles and electromancy gauntlets
+
+5 active abilities and 5 passive abilities
+abilities are microchipy things that can be equiped
+abilities can also be merged and modded to create more awesome stuff
+
+able to dismantle weaponry and build new weapons
+
+maybe parkour?
+
+super big open world thing
